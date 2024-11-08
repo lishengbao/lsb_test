@@ -1,1 +1,1 @@
-# lsb_test 12
+# lsb_test 1234
