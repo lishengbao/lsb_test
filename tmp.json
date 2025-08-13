@@ -1,1 +1,2029 @@
-123
+{
+    "blacklist": [],
+    "organizations": {
+        "2N Telekomunikace": [
+            {
+                "domain": "2n.cz",
+                "is_top": true
+            }
+        ],
+        "2Scale": [
+            {
+                "domain": "2scale.net",
+                "is_top": true
+            }
+        ],
+        "3ality Technica": [
+            {
+                "domain": "3alitydigital.de",
+                "is_top": true
+            },
+            {
+                "domain": "3alitytechnica.com",
+                "is_top": true
+            }
+        ],
+        "42on": [
+            {
+                "domain": "42on.com",
+                "is_top": true
+            }
+        ],
+        "4pi": [
+            {
+                "domain": "4pi.com",
+                "is_top": true
+            }
+        ],
+        "5e Technologies": [
+            {
+                "domain": "5etech.eu",
+                "is_top": true
+            },
+            {
+                "domain": "5etechnologies.com",
+                "is_top": true
+            }
+        ],
+        "6WIND": [
+            {
+                "domain": "6wind.com",
+                "is_top": true
+            }
+        ],
+        "8D Technologies": [
+            {
+                "domain": "8d.com",
+                "is_top": true
+            }
+        ],
+        "99cloud": [
+            {
+                "domain": "99cloud.net",
+                "is_top": true
+            }
+        ],
+        "Aalto University": [
+            {
+                "domain": "aalto.fi",
+                "is_top": true
+            }
+        ],
+        "A10": [
+            {
+                "domain": "a10networks.com",
+                "is_top": true
+            }
+        ],
+        "ADDI-DATA GmbH": [
+            {
+                "domain": "addi-data.com",
+                "is_top": true
+            }
+        ],
+        "ADLINK": [
+            {
+                "domain": "adlinktech.com",
+                "is_top": true
+            }
+        ],
+        "AG Interactive": [
+            {
+                "domain": "americangreetings.com",
+                "is_top": true
+            }
+        ],
+        "AGETO Service GmbH": [
+            {
+                "domain": "ageto.de",
+                "is_top": true
+            }
+        ],
+        "AGIX Linux": [
+            {
+                "domain": "agix.com.au",
+                "is_top": true
+            }
+        ],
+        "ALPHA-BIT": [
+            {
+                "domain": "alpha-bit.de",
+                "is_top": true
+            }
+        ],
+        "ALT Linux, Ltd.": [
+            {
+                "domain": "altlinux.com",
+                "is_top": true
+            },
+            {
+                "domain": "altlinux.ru",
+                "is_top": true
+            }
+        ],
+        "ALi": [
+            {
+                "domain": "alitech.com",
+                "is_top": true
+            }
+        ],
+        "AMD": [
+            {
+                "domain": "amd.com",
+                "is_top": true
+            },
+            {
+                "domain": "amd64.org",
+                "is_top": true
+            }
+        ],
+        "AMDOCS": [
+            {
+                "domain": "amdocs.com",
+                "is_top": true
+            }
+        ],
+        "ANDURAS AG": [
+            {
+                "domain": "anduras.de",
+                "is_top": true
+            }
+        ],
+        "APM": [
+            {
+                "domain": "amcc.com",
+                "is_top": true
+            },
+            {
+                "domain": "apm.com",
+                "is_top": true
+            }
+        ],
+        "ARM": [
+            {
+                "domain": "arm.com",
+                "is_top": true
+            }
+        ],
+        "ARVOO Engineering": [
+            {
+                "domain": "arvoo.com",
+                "is_top": true
+            },
+            {
+                "domain": "arvoo.nl",
+                "is_top": true
+            }
+        ],
+        "ASIX Electronics Corporation": [
+            {
+                "domain": "asix.com.tw",
+                "is_top": true
+            }
+        ],
+        "Association of Computing Machinery": [
+            {
+                "domain": "acm.org",
+                "is_top": true
+            }
+        ],
+        "AT&T": [
+            {
+                "domain": "att.com",
+                "is_top": true
+            },
+            {
+                "domain": "attinteractive.com",
+                "is_top": true
+            }
+        ],
+        "ATRON electronic": [
+            {
+                "domain": "atron.com",
+                "is_top": true
+            }
+        ],
+        "Abilis Systems": [
+            {
+                "domain": "abilis.com",
+                "is_top": true
+            }
+        ],
+        "Absolut Bank": [
+            {
+                "domain": "absolutbank.com",
+                "is_top": true
+            },
+            {
+                "domain": "absolutbank.ru",
+                "is_top": true
+            }
+        ],
+        "AbsoluteValue Systems, Inc.": [
+            {
+                "domain": "linux-wlan.com",
+                "is_top": true
+            }
+        ],
+        "Acaleph": [
+            {
+                "domain": "acale.ph",
+                "is_top": true
+            }
+        ],
+        "Accenture": [
+            {
+                "domain": "accenture.com",
+                "is_top": true
+            }
+        ],
+        "Acelio": [
+            {
+                "domain": "acelio.com",
+                "is_top": true
+            }
+        ],
+        "Acision": [
+            {
+                "domain": "acision.com",
+                "is_top": true
+            }
+        ],
+        "Acme Systems srl": [
+            {
+                "domain": "acmesystems.it",
+                "is_top": true
+            }
+        ],
+        "Aconex": [
+            {
+                "domain": "aconex.com",
+                "is_top": true
+            }
+        ],
+        "Acronis": [
+            {
+                "domain": "acronis.com",
+                "is_top": true
+            }
+        ],
+        "Actuate Corporation": [
+            {
+                "domain": "actuate.com",
+                "is_top": true
+            }
+        ],
+        "Aculab": [
+            {
+                "domain": "aculab.com",
+                "is_top": true
+            }
+        ],
+        "AdRem Technologies": [
+            {
+                "domain": "ademtechnologies.com",
+                "is_top": true
+            }
+        ],
+        "Adaptec": [
+            {
+                "domain": "adaptec.com",
+                "is_top": true
+            }
+        ],
+        "Adaptive Computing": [
+            {
+                "domain": "adaptivecomputing.com",
+                "is_top": true
+            }
+        ],
+        "Adeneo Embedded": [
+            {
+                "domain": "adeneo-embedded.com",
+                "is_top": true
+            }
+        ],
+        "Adetel Group": [
+            {
+                "domain": "adetelgroup.com",
+                "is_top": true
+            }
+        ],
+        "Adobe Systems, Inc.": [
+            {
+                "domain": "adobe.com",
+                "is_top": true
+            }
+        ],
+        "AgileMesh": [
+            {
+                "domain": "agilemesh.com",
+                "is_top": true
+            }
+        ],
+        "Agilent Technologies": [
+            {
+                "domain": "agilent.com",
+                "is_top": true
+            }
+        ],
+        "AimValley": [
+            {
+                "domain": "aimvalley.nl",
+                "is_top": true
+            }
+        ],
+        "AirGap IT": [
+            {
+                "domain": "airgapit.com",
+                "is_top": true
+            }
+        ],
+        "Airbus Group": [
+            {
+                "domain": "airbus.com",
+                "is_top": true
+            },
+            {
+                "domain": "airbusgroup.com",
+                "is_top": true
+            },
+            {
+                "domain": "casaespacio.com",
+                "is_top": true
+            },
+            {
+                "domain": "eads.com",
+                "is_top": true
+            }
+        ],
+        "Airvana": [
+            {
+                "domain": "airvana.com",
+                "is_top": true
+            }
+        ],
+        "Akamai Technologies": [
+            {
+                "domain": "akamai.com",
+                "is_top": true
+            }
+        ],
+        "Akanda, Inc.": [
+            {
+                "domain": "akanda.io",
+                "is_top": true
+            }
+        ],
+        "Alacritech": [
+            {
+                "domain": "alacritech.com",
+                "is_top": true
+            }
+        ],
+        "Alcatel-Lucent": [
+            {
+                "domain": "alcatel-lucent.com",
+                "is_top": true
+            },
+            {
+                "domain": "alcatel-lucent.fr",
+                "is_top": true
+            },
+            {
+                "domain": "alcatel.com",
+                "is_top": true
+            },
+            {
+                "domain": "bell-labs.com",
+                "is_top": true
+            },
+            {
+                "domain": "lucent.com",
+                "is_top": true
+            }
+        ],
+        "阿里巴巴": [
+            {
+                "domain": "alibaba-inc.com",
+                "is_top": true
+            },
+            {
+                "domain": "alibaba.com",
+                "is_top": true
+            }
+        ],
+        "Allegro": [
+            {
+                "domain": "allegro.pl",
+                "is_top": true
+            },
+            {
+                "domain": "allegrogroup.com",
+                "is_top": true
+            },
+            {
+                "domain": "allegrogroup.hu",
+                "is_top": true
+            },
+            {
+                "domain": "allegrogroup.ro",
+                "is_top": true
+            }
+        ],
+        "Allen Organ Company": [
+            {
+                "domain": "allen-organ.com",
+                "is_top": true
+            },
+            {
+                "domain": "allenorgan.com",
+                "is_top": true
+            }
+        ],
+        "Allied Telesis": [
+            {
+                "domain": "alliedtelesis.co.nz",
+                "is_top": true
+            }
+        ],
+        "Alsatis": [
+            {
+                "domain": "alsatis.com",
+                "is_top": true
+            }
+        ],
+        "Alter Way": [
+            {
+                "domain": "alterway.fr",
+                "is_top": true
+            }
+        ],
+        "Altiscale": [
+            {
+                "domain": "altiscale.com",
+                "is_top": true
+            }
+        ],
+        "Altran": [
+            {
+                "domain": "altran.com",
+                "is_top": true
+            }
+        ],
+        "Alyseo": [
+            {
+                "domain": "alyseo.com",
+                "is_top": true
+            }
+        ],
+        "艾玛迪斯": [
+            {
+                "domain": "amadeus.com",
+                "is_top": true
+            }
+        ],
+        "Amarula Solutions": [
+            {
+                "domain": "amarulasolutions.com",
+                "is_top": true
+            }
+        ],
+        "亚马逊": [
+            {
+                "domain": "amazon.com",
+                "is_top": true
+            },
+            {
+                "domain": "lab126.com",
+                "is_top": true
+            }
+        ],
+        "Ambarella": [
+            {
+                "domain": "ambarella.com",
+                "is_top": true
+            }
+        ],
+        "American Microsystems, Ltd.": [
+            {
+                "domain": "amltd.com",
+                "is_top": true
+            }
+        ],
+        "American University": [
+            {
+                "domain": "american.edu",
+                "is_top": true
+            }
+        ],
+        "Ammeon": [
+            {
+                "domain": "ammeon.com",
+                "is_top": true
+            }
+        ],
+        "Anachron BV": [
+            {
+                "domain": "anachron.com",
+                "is_top": true
+            }
+        ],
+        "Antmicro": [
+            {
+                "domain": "antmicro.com",
+                "is_top": true
+            }
+        ],
+        "Anagramm GmbH": [
+            {
+                "domain": "anagramm.de",
+                "is_top": true
+            }
+        ],
+        "Analog Devices": [
+            {
+                "domain": "analog.com",
+                "is_top": true
+            }
+        ],
+        "Anchor Hosting": [
+            {
+                "domain": "anchor.com.au",
+                "is_top": true
+            }
+        ],
+        "Anevia": [
+            {
+                "domain": "anevia-group.com",
+                "is_top": true
+            },
+            {
+                "domain": "anevia.com",
+                "is_top": true
+            }
+        ],
+        "Ansible": [
+            {
+                "domain": "ansible.com",
+                "is_top": true
+            }
+        ],
+        "Anso Labs": [
+            {
+                "domain": "ansolabs.com",
+                "is_top": true
+            }
+        ],
+        "AnswerNet.Com": [
+            {
+                "domain": "answernet.com",
+                "is_top": true
+            }
+        ],
+        "Antagonist B.V.": [
+            {
+                "domain": "antagonist.nl",
+                "is_top": true
+            }
+        ],
+        "Apigee Corp": [
+            {
+                "domain": "apigee.com",
+                "is_top": true
+            }
+        ],
+        "AppDynamics": [
+            {
+                "domain": "appdynamics.com",
+                "is_top": true
+            }
+        ],
+        "Appear TV AS": [
+            {
+                "domain": "appeartv.com",
+                "is_top": true
+            }
+        ],
+        "Apple": [
+            {
+                "domain": "apple.com",
+                "is_top": true
+            }
+        ],
+        "Applied Micro Circuit Corporation": [],
+        "Aptana, Inc.": [
+            {
+                "domain": "aptana.com",
+                "is_top": true
+            }
+        ],
+        "Aptira": [
+            {
+                "domain": "aptira.com",
+                "is_top": true
+            }
+        ],
+        "Arastra, Inc.": [],
+        "Arcor lhr": [
+            {
+                "domain": "arcor.de",
+                "is_top": true
+            }
+        ],
+        "Areca": [
+            {
+                "domain": "areca.com.tw",
+                "is_top": true
+            }
+        ],
+        "Argonne National Laboratory": [
+            {
+                "domain": "anl.gov",
+                "is_top": true
+            }
+        ],
+        "阿里斯塔网络": [
+            {
+                "domain": "arastra.com",
+                "is_top": true
+            },
+            {
+                "domain": "arista.com",
+                "is_top": true
+            },
+            {
+                "domain": "aristanetworks.com",
+                "is_top": true
+            }
+        ],
+        "Arkena": [
+            {
+                "domain": "arkena.com",
+                "is_top": true
+            }
+        ],
+        "Arkoon": [
+            {
+                "domain": "arkoon.com",
+                "is_top": true
+            }
+        ],
+        "Armadeus Systems": [
+            {
+                "domain": "armadeus.com",
+                "is_top": true
+            }
+        ],
+        "Armory Technologies, Inc.": [
+            {
+                "domain": "bitcoinarmory.com",
+                "is_top": true
+            }
+        ],
+        "Artec Design": [
+            {
+                "domain": "artecdesign.ee",
+                "is_top": true
+            }
+        ],
+        "ArtiBit": [
+            {
+                "domain": "artibit.com",
+                "is_top": true
+            }
+        ],
+        "Ascom": [
+            {
+                "domain": "ascom.ch",
+                "is_top": true
+            }
+        ],
+        "Askbot": [
+            {
+                "domain": "askbot.com",
+                "is_top": true
+            }
+        ],
+        "Astaro": [
+            {
+                "domain": "astaro.com",
+                "is_top": true
+            }
+        ],
+        "Astek Corporation": [
+            {
+                "domain": "astekcorp.com",
+                "is_top": true
+            }
+        ],
+        "Athabasca University": [
+            {
+                "domain": "athabascau.ca",
+                "is_top": true
+            }
+        ],
+        "Atheros Communications": [
+            {
+                "domain": "atheros.com",
+                "is_top": true
+            }
+        ],
+        "Athlone Institute of Technology": [
+            {
+                "domain": "ait.ie",
+                "is_top": true
+            }
+        ],
+        "Atlassian": [
+            {
+                "domain": "atlassian.com",
+                "is_top": true
+            }
+        ],
+        "Atmel": [
+            {
+                "domain": "atmel.com",
+                "is_top": true
+            }
+        ],
+        "Atomia": [
+            {
+                "domain": "atomia.com",
+                "is_top": true
+            }
+        ],
+        "Atomide": [
+            {
+                "domain": "atomide.com",
+                "is_top": true
+            }
+        ],
+        "Atos Integration": [
+            {
+                "domain": "atos.net",
+                "is_top": true
+            }
+        ],
+        "AudioScience, Inc.": [
+            {
+                "domain": "audioscience.com",
+                "is_top": true
+            }
+        ],
+        "Auerswald": [
+            {
+                "domain": "auerswald.de",
+                "is_top": true
+            }
+        ],
+        "AutoScout24 GmbH": [
+            {
+                "domain": "autoscout24.com",
+                "is_top": true
+            }
+        ],
+        "Avago Technologies": [
+            {
+                "domain": "avagotech.com",
+                "is_top": true
+            }
+        ],
+        "AvantSoft, Inc": [
+            {
+                "domain": "avantos.com",
+                "is_top": true
+            }
+        ],
+        "Avi Networks": [
+            {
+                "domain": "avinetworks.com",
+                "is_top": true
+            }
+        ],
+        "Avionic Design Development GmbH": [
+            {
+                "domain": "avionic-design.de",
+                "is_top": true
+            }
+        ],
+        "Avocent": [
+            {
+                "domain": "avocent.com",
+                "is_top": true
+            }
+        ],
+        "Avtrex": [
+            {
+                "domain": "avtrex.com",
+                "is_top": true
+            }
+        ],
+        "Awcloud": [
+            {
+                "domain": "awcloud.com",
+                "is_top": true
+            }
+        ],
+        "Axis Communications AB": [
+            {
+                "domain": "axis.com",
+                "is_top": true
+            }
+        ],
+        "Axway": [
+            {
+                "domain": "axway.com",
+                "is_top": true
+            }
+        ],
+        "Azingo, Inc.": [
+            {
+                "domain": "azingo.com",
+                "is_top": true
+            }
+        ],
+        "B Labs": [
+            {
+                "domain": "b-labs.co.uk",
+                "is_top": false
+            }
+        ],
+        "B1 Systems": [
+            {
+                "domain": "b1-systems.de",
+                "is_top": true
+            }
+        ],
+        "BCI": [
+            {
+                "domain": "bci.co.mz",
+                "is_top": true
+            }
+        ],
+        "BEA": [
+            {
+                "domain": "Bea-solutions.com",
+                "is_top": true
+            }
+        ],
+        "BIGBANK": [
+            {
+                "domain": "bigbank.at",
+                "is_top": true
+            },
+            {
+                "domain": "bigbank.de",
+                "is_top": true
+            },
+            {
+                "domain": "bigbank.ee",
+                "is_top": true
+            },
+            {
+                "domain": "bigbank.es",
+                "is_top": true
+            },
+            {
+                "domain": "bigbank.eu",
+                "is_top": true
+            },
+            {
+                "domain": "bigbank.lt",
+                "is_top": true
+            }
+        ],
+        "BMC Software": [
+            {
+                "domain": "bmc.com",
+                "is_top": true
+            }
+        ],
+        "BMW Group": [
+            {
+                "domain": "bmwgroup.com",
+                "is_top": true
+            }
+        ],
+        "BREDEX GmbH": [
+            {
+                "domain": "bredex.de",
+                "is_top": true
+            }
+        ],
+        "BSQUARE": [
+            {
+                "domain": "bsquare.com",
+                "is_top": true
+            }
+        ],
+        "BTChip": [
+            {
+                "domain": "btchip.com",
+                "is_top": true
+            }
+        ],
+        "BTicino": [
+            {
+                "domain": "bticino.it",
+                "is_top": true
+            }
+        ],
+        "BVOX": [
+            {
+                "domain": "bvox.net",
+                "is_top": true
+            }
+        ],
+        "Bacoosta IT Services": [
+            {
+                "domain": "bacoosta.com",
+                "is_top": true
+            }
+        ],
+        "Baidu": [
+            {
+                "domain": "baidu.com",
+                "is_top": true
+            }
+        ],
+        "BalaBit": [
+            {
+                "domain": "balabit.com",
+                "is_top": true
+            },
+            {
+                "domain": "balabit.hu",
+                "is_top": true
+            }
+        ],
+        "Banno, LLC": [
+            {
+                "domain": "banno.com",
+                "is_top": true
+            }
+        ],
+        "Barbon Insurance Group": [
+            {
+                "domain": "barbon.com",
+                "is_top": true
+            }
+        ],
+        "Barco": [
+            {
+                "domain": "barco.com",
+                "is_top": true
+            }
+        ],
+        "Basler AG": [
+            {
+                "domain": "baslerweb.com",
+                "is_top": true
+            }
+        ],
+        "Bay": [
+            {
+                "domain": "bay.ws",
+                "is_top": false
+            }
+        ],
+        "Bayan": [
+            {
+                "domain": "bayan.co.ir",
+                "is_top": true
+            }
+        ],
+        "Bazaarvoice": [
+            {
+                "domain": "bazaarvoice.com",
+                "is_top": true
+            }
+        ],
+        "BBVA Data & Analytics": [
+            {
+                "domain": "bbvadata.com",
+                "is_top": true
+            }
+        ],
+        "BDTi": [
+            {
+                "domain": "bdti.com",
+                "is_top": true
+            }
+        ],
+        "Beamly": [
+            {
+                "domain": "beamly.com",
+                "is_top": true
+            }
+        ],
+        "Beijing Rising Technology Co.": [
+            {
+                "domain": "rising-global.com",
+                "is_top": true
+            },
+            {
+                "domain": "rising.com.cn",
+                "is_top": true
+            }
+        ],
+        "Belden": [
+            {
+                "domain": "belden.com",
+                "is_top": true
+            }
+        ],
+        "BestSolution": [
+            {
+                "domain": "bestsolution.at",
+                "is_top": true
+            }
+        ],
+        "BetterLinux": [
+            {
+                "domain": "betterlinux.com",
+                "is_top": true
+            }
+        ],
+        "Big Switch Networks": [
+            {
+                "domain": "bigswitch.com",
+                "is_top": true
+            }
+        ],
+        "Bigfoot Networks": [
+            {
+                "domain": "bigfootnetworks.com",
+                "is_top": true
+            }
+        ],
+        "Bigpoint": [
+            {
+                "domain": "bigppoint.com",
+                "is_top": true
+            },
+            {
+                "domain": "bigppoint.net",
+                "is_top": true
+            }
+        ],
+        "Bingham University": [
+            {
+                "domain": "binghamuni.edu.ng",
+                "is_top": true
+            }
+        ],
+        "Bird": [
+            {
+                "domain": "bird.co",
+                "is_top": true
+            }
+        ],
+        "Birst": [
+            {
+                "domain": "birst.com",
+                "is_top": true
+            }
+        ],
+        "Bit-isle, Inc.": [
+            {
+                "domain": "bit-isle.jp",
+                "is_top": true
+            }
+        ],
+        "BitBox, Ltd.": [
+            {
+                "domain": "bitbox.co.uk",
+                "is_top": true
+            }
+        ],
+        "BitGo": [
+            {
+                "domain": "bitgo.com",
+                "is_top": true
+            }
+        ],
+        "BitPay": [
+            {
+                "domain": "bitpay.com",
+                "is_top": true
+            }
+        ],
+        "BitSim": [
+            {
+                "domain": "bitsim.com",
+                "is_top": true
+            }
+        ],
+        "BitSource.org": [
+            {
+                "domain": "bitsource.org",
+                "is_top": true
+            }
+        ],
+        "BitWagon Software": [
+            {
+                "domain": "bitwagon.com",
+                "is_top": true
+            }
+        ],
+        "Bitcoin Foundation": [
+            {
+                "domain": "bitcoin-contact.org",
+                "is_top": true
+            },
+            {
+                "domain": "bitcoin.org.pl",
+                "is_top": true
+            }
+        ],
+        "Bitergia": [
+            {
+                "domain": "bitergia.com",
+                "is_top": true
+            }
+        ],
+        "Bitfrost": [
+            {
+                "domain": "bitfrost.no",
+                "is_top": true
+            }
+        ],
+        "Bitmer, Ltd.": [
+            {
+                "domain": "bitmer.com",
+                "is_top": true
+            }
+        ],
+        "Bits Of Proof": [
+            {
+                "domain": "bitsofproof.com",
+                "is_top": true
+            }
+        ],
+        "Bitwise": [
+            {
+                "domain": "bitwise.io",
+                "is_top": true
+            }
+        ],
+        "Bivio Networks, Inc.": [
+            {
+                "domain": "bivio.net",
+                "is_top": true
+            }
+        ],
+        "Black Pearl Systems": [
+            {
+                "domain": "blackpearlsystems.com",
+                "is_top": true
+            }
+        ],
+        "BlackBerry": [
+            {
+                "domain": "rim.com",
+                "is_top": true
+            }
+        ],
+        "BlackMesh": [
+            {
+                "domain": "blackmesh.com",
+                "is_top": true
+            }
+        ],
+        "Blackberry Limited": [
+            {
+                "domain": "blackberry.com",
+                "is_top": true
+            }
+        ],
+        "Blackboard": [
+            {
+                "domain": "blackboard.com",
+                "is_top": true
+            }
+        ],
+        "BlankPage": [
+            {
+                "domain": "blankpage.ch",
+                "is_top": true
+            }
+        ],
+        "Blue Box Group": [
+            {
+                "domain": "bluebox.net",
+                "is_top": true
+            }
+        ],
+        "Blue Technix": [
+            {
+                "domain": "bluetechnix.at",
+                "is_top": true
+            }
+        ],
+        "Bluecherry, LLC": [
+            {
+                "domain": "bluecherry.net",
+                "is_top": true
+            }
+        ],
+        "Bluegiga": [
+            {
+                "domain": "bluegiga.com",
+                "is_top": true
+            }
+        ],
+        "Bluehost": [
+            {
+                "domain": "bluehost.com",
+                "is_top": true
+            }
+        ],
+        "Bluewater Systems": [
+            {
+                "domain": "bluewatersys.com",
+                "is_top": true
+            }
+        ],
+        "Bodeco, Inc.": [
+            {
+                "domain": "bodeco.io",
+                "is_top": true
+            }
+        ],
+        "Boeing": [
+            {
+                "domain": "boeing.com",
+                "is_top": true
+            }
+        ],
+        "Bollor\u00e9 Telecom": [
+            {
+                "domain": "bolloretelecom.eu",
+                "is_top": true
+            }
+        ],
+        "Borland Software Corp.": [
+            {
+                "domain": "borland.com",
+                "is_top": true
+            }
+        ],
+        "Bosch": [
+            {
+                "domain": "bosch-sensortec.com",
+                "is_top": true
+            },
+            {
+                "domain": "bosch.com",
+                "is_top": true
+            }
+        ],
+        "Bose Corporation": [
+            {
+                "domain": "bose.com",
+                "is_top": true
+            }
+        ],
+        "Boston Technologies, Inc.": [
+            {
+                "domain": "bostontechnologies.com",
+                "is_top": true
+            }
+        ],
+        "Boundary Devices": [
+            {
+                "domain": "boundarydevices.com",
+                "is_top": true
+            }
+        ],
+        "Brastel Telecom": [
+            {
+                "domain": "brastel.co.jp",
+                "is_top": true
+            },
+            {
+                "domain": "brastel.com",
+                "is_top": true
+            }
+        ],
+        "Bright Tag": [
+            {
+                "domain": "thebrighttag.com",
+                "is_top": true
+            }
+        ],
+        "Brown University": [
+            {
+                "domain": "brown.edu",
+                "is_top": true
+            }
+        ],
+        "Brightcove Inc": [],
+        "Brinkster": [
+            {
+                "domain": "brinkster.com",
+                "is_top": true
+            }
+        ],
+        "博通": [
+            {
+                "domain": "broadcom.com",
+                "is_top": true
+            }
+        ],
+        "Brocade": [
+            {
+                "domain": "brocade.com",
+                "is_top": true
+            }
+        ],
+        "Brontes Technologies": [
+            {
+                "domain": "brontes3d.com",
+                "is_top": true
+            }
+        ],
+        "Bronto Software, Inc.": [
+            {
+                "domain": "bronto.com",
+                "is_top": true
+            }
+        ],
+        "BrowserStack": [
+            {
+                "domain": "browserstack.com",
+                "is_top": true
+            }
+        ],
+        "Budker Institute of Nuclear Physics": [
+            {
+                "domain": "inp.nsk.su",
+                "is_top": true
+            }
+        ],
+        "Bull": [
+            {
+                "domain": "bull.com",
+                "is_top": true
+            },
+            {
+                "domain": "bull.es",
+                "is_top": true
+            },
+            {
+                "domain": "bull.fr",
+                "is_top": true
+            },
+            {
+                "domain": "bull.net",
+                "is_top": true
+            }
+        ],
+        "Buscap\u00e9 Company": [
+            {
+                "domain": "buscape-inc.com",
+                "is_top": true
+            }
+        ],
+        "Business Systems Integration AG": [
+            {
+                "domain": "bsi-software.com",
+                "is_top": true
+            }
+        ],
+        "C&C Technologies": [
+            {
+                "domain": "cctechnol.com",
+                "is_top": true
+            }
+        ],
+        "CALAO Systems SAS": [
+            {
+                "domain": "calao-systems.com",
+                "is_top": true
+            }
+        ],
+        "CBS Interactive, Inc.": [
+            {
+                "domain": "cbsinteractive.com",
+                "is_top": true
+            }
+        ],
+        "CC Computer Consultants": [
+            {
+                "domain": "computergmbh.de",
+                "is_top": true
+            }
+        ],
+        "CCM Benchmark": [
+            {
+                "domain": "ccmbenchmark.com",
+                "is_top": true
+            }
+        ],
+        "CDI.CZ": [
+            {
+                "domain": "cdi.cz",
+                "is_top": true
+            }
+        ],
+        "CE Linux Forum": [
+            {
+                "domain": "celinuxforum.org",
+                "is_top": true
+            }
+        ],
+        "Cerebras": [
+            {
+                "domain": "cerebras.net",
+                "is_top": true
+            }
+        ],
+        "CEVA DSP": [
+            {
+                "domain": "ceva-dsp.com",
+                "is_top": true
+            }
+        ],
+        "原子能和替代能源委员会": [
+            {
+                "domain": "cea.fr",
+                "is_top": true
+            }
+        ],
+        "欧洲核子研究组织": [
+            {
+                "domain": "cern.ch",
+                "is_top": true
+            }
+        ],
+        "Chongqing University": [
+            {
+                "domain": "cqu.edu.cn",
+                "is_top": true
+            }
+        ],
+        "CGI Group": [
+            {
+                "domain": "cgi.com",
+                "is_top": true
+            }
+        ],
+        "CIeNET Technologies": [
+            {
+                "domain": "cienet.com.cn",
+                "is_top": true
+            }
+        ],
+        "CJSC NII STT": [
+            {
+                "domain": "niistt.ru",
+                "is_top": true
+            }
+        ],
+        "Codespeaks": [
+            {
+                "domain": "codespeaks.com",
+                "is_top": true
+            }
+        ],
+        "Cornell University": [
+            {
+                "domain": "cornell.edu",
+                "is_top": true
+            }
+        ],
+        "CNR": [
+            {
+                "domain": "cnr.it",
+                "is_top": true
+            }
+        ],
+        "CNRS": [
+            {
+                "domain": "cnrs.fr",
+                "is_top": true
+            }
+        ],
+        "COIT": [
+            {
+                "domain": "coit.es",
+                "is_top": true
+            }
+        ],
+        "CPTI": [
+            {
+                "domain": "cpti.cetuc.puc-rio.br",
+                "is_top": true
+            }
+        ],
+        "CSAIL": [
+            {
+                "domain": "csail.mit.edu",
+                "is_top": true
+            }
+        ],
+        "CSC": [
+            {
+                "domain": "csc.com",
+                "is_top": true
+            }
+        ],
+        "CSR": [
+            {
+                "domain": "csr.com",
+                "is_top": true
+            }
+        ],
+        "CSR4": [
+            {
+                "domain": "crs4.it",
+                "is_top": true
+            }
+        ],
+        "CSS Corporation": [
+            {
+                "domain": "csscorp.com",
+                "is_top": true
+            }
+        ],
+        "CTERA Networks": [
+            {
+                "domain": "ctera.com",
+                "is_top": true
+            }
+        ],
+        "CadSoft Computer GmbH": [
+            {
+                "domain": "cadsoft.de",
+                "is_top": true
+            }
+        ],
+        "Cadence Design Systems": [
+            {
+                "domain": "cadence.com",
+                "is_top": true
+            },
+            {
+                "domain": "ip.cadence.com",
+                "is_top": false
+            }
+        ],
+        "Calit2": [
+            {
+                "domain": "calit2.net",
+                "is_top": true
+            },
+            {
+                "domain": "calit2.uci.edu",
+                "is_top": true
+            }
+        ],
+        "Call Direct": [
+            {
+                "domain": "call-direct.com.au",
+                "is_top": false
+            }
+        ],
+        "Calsoft, Inc.": [
+            {
+                "domain": "calsoftinc.com",
+                "is_top": true
+            }
+        ],
+        "CalvaEDI": [
+            {
+                "domain": "calva.com",
+                "is_top": true
+            },
+            {
+                "domain": "calvaedi.com",
+                "is_top": true
+            }
+        ],
+        "Calxeda": [
+            {
+                "domain": "calxeda.com",
+                "is_top": true
+            }
+        ],
+        "Calyptech Pty, Ltd.": [
+            {
+                "domain": "calyptech.com",
+                "is_top": true
+            }
+        ],
+        "Canadian Bank Note Company": [
+            {
+                "domain": "cbnco.com",
+                "is_top": true
+            }
+        ],
+        "Candela Technologies": [
+            {
+                "domain": "candelatech.com",
+                "is_top": true
+            }
+        ],
+        "Canonical": [
+            {
+                "domain": "canonical.com",
+                "is_top": true
+            },
+            {
+                "domain": "ubuntu.com",
+                "is_top": true
+            }
+        ],
+        "Capgemini Consulting": [
+            {
+                "domain": "capgemini.com",
+                "is_top": true
+            }
+        ],
+        "Capital One": [
+            {
+                "domain": "capitalone.com",
+                "is_top": true
+            }
+        ],
+        "Capital Sales Group": [
+            {
+                "domain": "capitalsalesgroup.com",
+                "is_top": true
+            }
+        ],
+        "Card Access": [
+            {
+                "domain": "cardaccess-inc.com",
+                "is_top": true
+            }
+        ],
+        "CardSpring, Inc.": [
+            {
+                "domain": "cardspring.com",
+                "is_top": true
+            }
+        ],
+        "CareerBuilder, LLC.": [
+            {
+                "domain": "careerbuilder.com",
+                "is_top": true
+            }
+        ],
+        "Carnegie Mellon University": [
+            {
+                "domain": "cmu.edu",
+                "is_top": true
+            }
+        ],
+        "CartoDB": [
+            {
+                "domain": "cartodb.com",
+                "is_top": true
+            }
+        ],
+        "CastLabs": [
+            {
+                "domain": "castlabs.com",
+                "is_top": true
+            }
+        ],
+        "Catalyst": [
+            {
+                "domain": "catalyst.net.nz",
+                "is_top": true
+            }
+        ],
+        "Cavium": [
+            {
+                "domain": "cavium.com",
+                "is_top": true
+            },
+            {
+                "domain": "caviumnetworks.com",
+                "is_top": true
+            }
+        ],
+        "Celestrius": [
+            {
+                "domain": "celestrius.com",
+                "is_top": true
+            }
+        ],
+        "Celunite, Inc.": [
+            {
+                "domain": "celunite.com",
+                "is_top": true
+            }
+        ],
+        "Centaur Technology": [
+            {
+                "domain": "centtech.com",
+                "is_top": true
+            }
+        ],
+        "Centrin": [
+            {
+                "domain": "centrin.net.id",
+                "is_top": true
+            }
+        ],
+        "Cerner Corporation": [
+            {
+                "domain": "cerner.com",
+                "is_top": true
+            }
+        ],
+        "Chaincode Labs": [
+            {
+                "domain": "chaincode.com",
+                "is_top": true
+            }
+        ],
+        "Chair for Applied Software Engineering, TUM": [
+            {
+                "domain": "tum.de",
+                "is_top": true
+            }
+        ],
+        "ChargeStorm AB": [
+            {
+                "domain": "chargestorm.se",
+                "is_top": true
+            }
+        ],
+        "Check Point": [
+            {
+                "domain": "checkpoint.com",
+                "is_top": true
+            }
+        ],
+        "Chef": [
+            {
+                "domain": "chef.io",
+                "is_top": true
+            },
+            {
+                "domain": "opscode.com",
+                "is_top": true
+            }
+        ],
+        "Chelsio Communications": [
+            {
+                "domain": "chelsio.com",
+                "is_top": true
+            }
+        ],
+        "China Electronics Technology Group Corporation": [
+            {
+                "domain": "cetc.com.cn",
+                "is_top": true
+            }
+        ],
+        "Choopa, LLC": [
+            {
+                "domain": "choopa.com",
+                "is_top": true
+            }
+        ],
+        "Chumby Industries": [
+            {
+                "domain": "chumby.com",
+                "is_top": true
+            }
+        ],
+        "Ciklum": [
+            {
+                "domain": "ciklum.com",
+                "is_top": true
+            }
+        ],
+        "Cinterion Wireless Modules": [
+            {
+                "domain": "cinterion.com",
+                "is_top": true
+            }
+        ],
+        "Circle Internet Financial": [
+            {
+                "domain": "circle.com",
+                "is_top": true
+            }
+        ],
+        "Cirrax": [
+            {
+                "domain": "cirrax.com",
+                "is_top": true
+            }
+        ],
+        "Cirrus Logic": [
+            {
+                "domain": "cirrus.com",
+                "is_top": true
+            }
+        ],
+        "CirrusMio, Inc.": [
+            {
+                "domain": "cirrusmio.com",
+                "is_top": true
+            }
+        ],
+        "Cisco": [
+            {
+                "domain": "cisco.com",
+                "is_top": true
+            }
+        ],
+        "Citrix": [
+            {
+                "domain": "citrix.com",
+                "is_top": true
+            },
+            {
+                "domain": "cloud.com",
+                "is_top": true
+            },
+            {
+                "domain": "xensource.com",
+                "is_top": true
+            }
+        ],
+        "City University London": [],
+        "City of Austin": [
+            {
+                "domain": "austintexas.gov",
+                "is_top": true
+            }
+        ],
+        "City of Boston": [
+            {
+                "domain": "boston.gov",
+                "is_top": true
+            }
+        ],
+        "City of Santa Monica": [
+            {
+                "domain": "smgov.net",
+                "is_top": true
+            }
+        ],
+        "Clemson University": [
+            {
+                "domain": "clemson.edu",
+                "is_top": true
+            }
+        ],
+        "CloudBees, Inc.": [
+            {
+                "domain": "cloudbees.com",
+                "is_top": true
+            }
+        ],
+        "CloudPassage, Inc.": [
+            {
+                "domain": "cloudpassage.com",
+                "is_top": true
+            }
+        ],
+        "CloudRunner.io, Inc.": [
+            {
+                "domain": "cloudrunner.io",
+                "is_top": true
+            }
+        ],
+        "CloudVPS": [
+            {
+                "domain": "cloudvps.com",
+                "is_top": true
+            },
+            {
+                "domain": "cloudvps.nl",
+                "is_top": true
+            }
+        ],
+        "Cloudbase Solutions": [
+            {
+                "domain": "cloudbase.it",
+                "is_top": true
+            },
+            {
+                "domain": "cloudbasesolutions.com",
+                "is_top": true
+            }
+        ],
+        "Cloudbau": [
+            {
+                "domain": "cloudbau.de",
+                "is_top": true
+            }
+        ],
+        "Cloudera, Inc.": [
+            {
+                "domain": "cloudera.com",
+                "is_top": true
+            }
+        ],
+        "Cloudian, Inc.": [
+            {
+                "domain": "cloudian.com",
+                "is_top": true
+            }
+        ],
+        "Cloudscaling": [
+            {
+                "domain": "cloudscaling.com",
+                "is_top": true
+            }
+        ],
+        "Cloudsmith Inc.": [
+            {
+                "domain": "cloudsmith.com",
+                "is_top": true
+            }
+        ],
+        "Cloudwatt": [
+            {
+                "domain": "cloudwatt.com",
+                "is_top": true
+            }
+        ],
+        "Cloudzilla": [
+            {
+                "domain": "cloudzilla.com",
+                "is_top": true
+            }
+        ],
+        "Cluster Computing": [
+            {
+                "domain": "clustcom.com",
+                "is_top": true
+            }
+        ],
+        "Cluster File Systems, Inc.": [
+            {
+                "domain": "clusterfs.com",
+                "is_top": true
+            }
+        ],
+        "ClusterHQ": [
+            {
+                "domain": "clusterhq.com",
+                "is_top": true
+            }
+        ],
+        "Code Aurora Forum": [
+            {
+                "domain": "codeaurora.org",
+                "is_top": true
+            }
+        ],
+        "Code Lemon": [
+            {
+                "domain": "codelemon.com",
+                "is_top": true
+            }
+        ],
+        "CodeSourcery": [
+            {
+                "domain": "codesourcery.com",
+                "is_top": true
+            }
+        ],
+        "Codefidence": [
+            {
+                "domain": "codefidence.com",
+                "is_top": true
+            }
+        ],
+        "Codethink": [
+            {
+                "domain": "codethink.co.uk",
+                "is_top": true
+            }
+        ],
+        "Codetrails": [
+            {
+                "domain": "codetrails.com",
+                "is_top": true
+            }
+        ],
+        "Codewise": [
+            {
+                "domain": "codewise.com",
+                "is_top": true
+            }
+        ],
+        "Cogent.co Pty Ltd": [
+            {
+                "domain": "cogent.co",
+                "is_top": true
+            }
+        ],
+        "Cognitree Technologies": [
+            {
+                "domain": "cognitree.com",
+                "is_top": true
+            }
+        ],
